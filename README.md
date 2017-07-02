@@ -1,2 +1,10 @@
 # appli-pizza
-Projet pizzéria
+Projet pizzeria
+
+Python/Django
+
+Logiciels :
+  - PyCharm
+  - MySQL Workbench
+  - KanbanFlow
+  - Google Drive
