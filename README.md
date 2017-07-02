@@ -5,6 +5,6 @@ Python/Django
 
 Logiciels :
   - PyCharm
-  - MySQL Workbench
+  - DbDesigner
   - KanbanFlow
   - Google Drive
